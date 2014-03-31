@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being Love Hansson (a.k.a. LCHansson)
+title: Being Love Hansson
 date:   2014-03-01 16:45:04
 categories: frontpage
 ---
@@ -10,13 +10,14 @@ Hi.
 
 I'm Love Hansson, a Swedish developer, analyst, and activist of sorts currently residing in Stockholm, Sweden.
 
-Most of my time goes towards contributing to projects that combine social/political improvement with hacking, analytical work and meting new people. I'm a firm believer in transparency, and try to work with open source and open data whenever possible.
+Most of my time goes towards contributing to projects that combine social/political improvement with hacking, analytical work and meeting new people. I'm a firm believer in using data driven analysis to make serious improvements to our understanding of policy, society and economic relations, and I try to work with open source and open data whenever possible.
 
 These are some of the projects I've recently been involved with:
 
+- [Kvartersregeringen.se][Kvartersregeringen]
+- [Hack for Sweden][HfS], where I won the visualization award together with friends Jonathan Hise Kaldma and Jens Finnäs
 - Co-founder of the [Stockholm R User Group][SRUG]
 - [sweSCB][sweSCB], an open source library for accessing the open data of [Statistics Sweden][SCB] through my favorite open source analytics language, [R][R].
-- [Hack for Sweden][HfS]
 - [iPlot][iPlot], an R-based tool (and webservice) for interactive data visualization
 
 And while we're on the topic of development, here's [a sort of summary][Summary] of my open source contributions over the past year or so.
@@ -42,3 +43,4 @@ On GitHub (and Twitter, and other nice places) I'm [LCHansson][LCHansson].
 [HfS]: http://hackforsweden.se/
 [SRUG]: http://www.meetup.com/StockholmR/
 [RForNyborjare]: https://github.com/SwedishPensionsAgency/r-for-nyborjare
+[Kvartersregeringen]: http://www.kvartersregeringen.se/
